@@ -1,7 +1,9 @@
 <?php
 /**
+ * WPSEO plugin file.
+ *
  * @package WPSEO\Admin
- * @since      1.6.2
+ * @since   1.6.2
  *
  * @deprecated 3.0 Class inside file is removed.
  */
